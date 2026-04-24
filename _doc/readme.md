@@ -3,3 +3,4 @@
 ~~~
 compileOnly files('libs//XposedBridgeAPI-82.jar')
 ~~~
+2: 升级jdk  1.8-->17
